@@ -1,0 +1,6 @@
+6|103|204|75|REVIEW|High risk request
+5|101|202|50|REVIEW|Additional verification required
+4|102|201|0|DENIED|Insufficient privileges
+3|105|201|0|DENIED|User is blocked
+2|102|203|0|GRANTED|Identity, role and risk checks passed
+1|104|201|0|GRANTED|Identity, role and risk checks passed

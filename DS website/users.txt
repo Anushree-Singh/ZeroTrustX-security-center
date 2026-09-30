@@ -1,0 +1,6 @@
+101|Alice Smith|SecOps|DEV-SEC-01|0
+102|Bob Miller|Developer|DEV-DEV-02|0
+103|Charlie Davis|Auditor|DEV-AUD-03|0
+104|David Kumar|Admin|DEV-ADM-04|0
+105|Eve Johnson|Intern|DEV-INT-05|1
+106|Frank Chen|Developer|DEV-DEV-06|0

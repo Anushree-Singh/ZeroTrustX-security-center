@@ -1,0 +1,5 @@
+201|AWS Core Production DB|Admin
+202|Kubernetes Prod Cluster|SecOps
+203|GitLab Enterprise Repo|Developer
+204|Cloud Compliance Vault|Auditor
+205|Payment Gateway API|Admin

@@ -1,0 +1,6 @@
+{
+  "name": "ZeroTrustX Security Command Center",
+  "description": "A Data-Structure-Based Zero Trust Access Control and Threat Monitoring Simulator for Cloud Resources",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
